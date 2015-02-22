@@ -1709,3 +1709,13 @@ fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
   font-family: Printerpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
 }
+
+.entry-content a, .entry-summary a, .comment-content a,
+.comment-respond a, .navigation a, .comment-navigation a,
+.current-menu-item > a {
+  color:#a62425;
+}
+
+a:hover {
+  color:#b85051;
+}
