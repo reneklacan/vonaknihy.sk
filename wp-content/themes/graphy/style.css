@@ -51,6 +51,7 @@ small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
+  font-family: Printerpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
 	border: 0;
 	font-family: inherit;
 	font-size: 100%;
@@ -1698,4 +1699,3 @@ a.comment-edit-link:hover {
 		max-width: 100%;
 	}
 }
-
